@@ -6,7 +6,7 @@ The OASEES SDK is a Python package that consists of two modules: the **Command L
 
 ## CLI
 
-The CLI module's purpose is to handle the Kubernetes aspect of the OASEES framework. It provides the user with a few simple commands to quickly provision and configure a Kubernetes cluster, as well as facilitate and automate its nodes' connection to the OASEES blockchain
+The CLI module's purpose isd to handle the Kubernetes aspect of the OASEES framework. It provides the user with a few simple commands to quickly provision and configure a Kubernetes cluster, as well as facilitate and automate its nodes' connection to the OASEES blockchain
 <br>
 
 ### <ins>Installation</ins>
